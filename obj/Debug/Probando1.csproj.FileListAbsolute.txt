@@ -1,0 +1,11 @@
+D:\Visual\Probando1\bin\Debug\Probando1.exe.config
+D:\Visual\Probando1\bin\Debug\Probando1.exe
+D:\Visual\Probando1\bin\Debug\Probando1.pdb
+D:\Visual\Probando1\obj\Debug\Probando1.csproj.AssemblyReference.cache
+D:\Visual\Probando1\obj\Debug\Probando1.csproj.SuggestedBindingRedirects.cache
+D:\Visual\Probando1\obj\Debug\Probando1.Form1.resources
+D:\Visual\Probando1\obj\Debug\Probando1.Properties.Resources.resources
+D:\Visual\Probando1\obj\Debug\Probando1.csproj.GenerateResource.cache
+D:\Visual\Probando1\obj\Debug\Probando1.csproj.CoreCompileInputs.cache
+D:\Visual\Probando1\obj\Debug\Probando1.exe
+D:\Visual\Probando1\obj\Debug\Probando1.pdb
